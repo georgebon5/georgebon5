@@ -47,5 +47,5 @@ Python · C / C++ · TypeScript · JavaScript · SQL · Next.js · FastAPI · Do
 ---
 
 ## Connect
-- [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
-- 📧 YOUR_EMAIL
+- - [LinkedIn](https://www.linkedin.com/in/george-bonovas-32ba952a2/)
+- 📧 georgebonovas315@gmail.com
