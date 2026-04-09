@@ -16,9 +16,9 @@ A full SaaS backend where organisations upload documents and chat with them usin
 
 ---
 
-### [NBG TechBliz Frontend](https://github.com/georgebon5/nbgtechbliz-frontend) 🏆 1st · 3rd overall
+### [NBG TechBliz / Next Jr by NBG](https://github.com/georgebon5/nbgtechbliz) 🏆 1st · 3rd overall
 
-Fintech app built for a National Bank of Greece hackathon. My team won 1st in our category and 3rd overall. I handled the entire frontend.
+Fintech app built for a National Bank of Greece hackathon. My team won 1st in our category and 3rd overall. I handled the entire frontend and the main product UI.
 
 `TypeScript` `Next.js` `React`
 
