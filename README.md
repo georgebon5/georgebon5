@@ -32,14 +32,6 @@ End-to-end MLOps setup for a classification problem — DVC for data versioning,
 
 ---
 
-### [Snake Game 2025](https://github.com/georgebon5/snakegame-2025)
-
-Snake in C/C++ with a proper project structure, Makefile, and unit tests. Sometimes you just want to write C.
-
-`C++` `raylib` `Makefile`
-
----
-
 ## Tech
 
 Python · C / C++ · TypeScript · JavaScript · SQL · Next.js · FastAPI · Docker · Kubernetes
