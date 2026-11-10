@@ -1,7 +1,7 @@
 <h1>George Bonovas</h1>
 
 <p>
-Software engineer in Athens. Final-year CS at NKUA, writing my thesis on KV cache quantization for LLM inference.<br>
+Software engineer working on LLM inference and backend systems, based in Athens. Final-year CS at NKUA, writing my thesis on KV cache quantization.<br>
 I work mostly on backend systems and AI tooling, and I like owning the whole thing: data layer, API, and the ops around it.
 </p>
 
@@ -19,7 +19,7 @@ Open to internships and junior roles in AI engineering or backend. Remote or hyb
 LLM inference engine written from scratch in C++20. No PyTorch, no ggml, no BLAS.
 
 - Full transformer stack (GQA, RoPE, SwiGLU, KV cache) on hand-written NEON SIMD kernels
-- Runs SmolLM2 135M to 1.7B on CPU at **10–61 tok/s**
+- Runs SmolLM2 135M to 1.7B on Apple Silicon / ARM CPUs at **10–61 tok/s**
 - Loads BF16 weights straight into INT8, so the 1.7B model fits in **under 2 GB of RAM**
 - Web UI with live token streaming, a per-token top-5 probability panel, and FP32 / INT8 / INT4 side by side
 
